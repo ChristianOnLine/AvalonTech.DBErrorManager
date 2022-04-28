@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B97B5E31-B86D-47D4-8619-FB507EFAB7E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvalonTech.DBErrorManager.WebAPI", "src\AvalonTech.DBErrorManager.WebAPI\AvalonTech.DBErrorManager.WebAPI.csproj", "{2EABB7B6-0F8B-48C4-9116-A821A8878A07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EABB7B6-0F8B-48C4-9116-A821A8878A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EABB7B6-0F8B-48C4-9116-A821A8878A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EABB7B6-0F8B-48C4-9116-A821A8878A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EABB7B6-0F8B-48C4-9116-A821A8878A07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2EABB7B6-0F8B-48C4-9116-A821A8878A07} = {B97B5E31-B86D-47D4-8619-FB507EFAB7E3}
+	EndGlobalSection
+EndGlobal
